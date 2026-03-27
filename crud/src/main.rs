@@ -31,5 +31,6 @@ fn main() {
             }
             _ => println!("Input inválido"),
         }
+        println!("======================");
     }
 }
